@@ -1,6 +1,8 @@
 from tkinter import *
 from tkinter import ttk
-
+"""
+To do list implementation that keeps track of our tasks and updates according to our completion
+"""
 class todo:
     def __init__(self, root):
         self.root=root
